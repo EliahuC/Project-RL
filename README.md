@@ -1,7 +1,7 @@
 # Project-RL
 Prova Finale Di Reti Logiche 
 Anno 2023
-Sviluppata da:
+Sviluppata da:  
 ELIAHU ITAMAR COHEN 10704321
 ANDREA BRICCHI 10660408
 
