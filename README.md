@@ -1,6 +1,6 @@
 # Project-RL
-Prova Finale Di Reti Logiche 
-Anno 2023
+Prova Finale Di Reti Logiche   
+Anno 2023  
 Sviluppato da:  
 [Eliahu Cohen](https://github.com/EliahuC) 10704321  
 [Andrea Bricchi](https://github.com/andrebricchi) 10660408
