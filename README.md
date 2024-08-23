@@ -1,9 +1,10 @@
 # Project-RL
 Prova Finale Di Reti Logiche 
 Anno 2023
-Sviluppata da:  
-ELIAHU ITAMAR COHEN 10704321  
-ANDREA BRICCHI 10660408
+Sviluppato da:  
+[Eliahu Cohen](https://github.com/EliahuC) 10704321
+[Andrea Bricchi](https://github.com/andrebricchi) 10660408
+
 
 Il componente risulta sviluppato in modo da funzionare in pre e post sintesi passando i test per il 30L
 ## SPECIFICA PROGETTO
